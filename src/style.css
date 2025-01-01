@@ -64,4 +64,38 @@ li a:focus {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 90vh;
+  gap: 30px;
+}
+
+.home-picture {
+  height: 300px;
+  border-radius: 200px;
+  background-color: #f8fafc;
+}
+
+.break-line {
+  border: 1px solid #f8fafc;
+}
+
+.home-linked {
+  display: flex;
+  align-items: center;
+}
+
+.home-details {
+  color: #f8fafc;
+}
+
+.gmail {
+  height: 70px;
+}
+
+.git {
+  height: 60px;
+}
+
+.linkedin {
+  height: 45px;
+  margin-left: 5px;
 }
