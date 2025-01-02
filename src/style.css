@@ -107,14 +107,13 @@ li a:focus {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 150vh;
+  height: 100vh;
 }
 
 .about-content {
   display: flex;
   align-items: center;
   border: 2px solid black;
-  margin-bottom: 500px;
   height: 70vh;
   width: 70%;
   background-color: #485254;
@@ -141,4 +140,31 @@ li a:focus {
 
 .about-break-line {
   border: 3px solid black;
+}
+
+/* Education */
+
+.education-container {
+  display: flex;
+  justify-content: center;
+}
+
+.education-content {
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+}
+
+.senior {
+  background-color: #f8fafc;
+  width: 500px;
+  height: 200px;
+  border: 20px solid black;
+}
+
+.college {
+  background-color: #f8fafc;
+  width: 500px;
+  height: 200px;
+  border: 20px solid black;
 }
