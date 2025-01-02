@@ -100,4 +100,45 @@ li a:focus {
   margin-left: 5px;
 }
 
-/* Skills */
+/* About */
+
+.about-container {
+  background-color: #4c585b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150vh;
+}
+
+.about-content {
+  display: flex;
+  align-items: center;
+  border: 2px solid black;
+  margin-bottom: 500px;
+  height: 70vh;
+  width: 70%;
+  background-color: #485254;
+  border-radius: 20px;
+  box-shadow: 20px 20px 10px rgba(0, 0, 0, 0.2);
+}
+
+.about-picture {
+  display: flex;
+  height: 484px;
+  border-radius: 20px 0 0 20px;
+}
+
+.summary {
+  padding: 30px;
+  color: #f8fafc;
+}
+
+.about-summary h2 {
+  display: flex;
+  justify-content: center;
+  color: #f8fafc;
+}
+
+.about-break-line {
+  border: 3px solid black;
+}
