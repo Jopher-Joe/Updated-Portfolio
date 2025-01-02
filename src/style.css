@@ -86,9 +86,20 @@ li a:focus {
   color: #f8fafc;
 }
 
+/* .web,
+.front {
+  font-size: 1rem;
+  font-family: "Ysabeau SC", sans-serif;
+  color: #f8fafc;
+}
+
+.front {
+  margin-bottom: 20px;
+}
+ */
 .home-details {
   width: 25%;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-family: "Roboto" sans-serif;
   color: #f8fafc;
   margin-top: 200px;
