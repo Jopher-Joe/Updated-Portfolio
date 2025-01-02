@@ -52,54 +52,6 @@ li a:focus {
   text-decoration: underline;
 }
 
-/* home */
-
-.home-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.home-content {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 90vh;
-  gap: 30px;
-}
-
-.home-picture {
-  height: 300px;
-  border-radius: 200px;
-  background-color: #f8fafc;
-}
-
-.break-line {
-  border: 1px solid #f8fafc;
-}
-
-.home-linked {
-  display: flex;
-  align-items: center;
-}
-
-.home-details {
-  color: #f8fafc;
-}
-
-.gmail {
-  height: 70px;
-}
-
-.git {
-  height: 60px;
-}
-
-.linkedin {
-  height: 45px;
-  margin-left: 5px;
-}
-
 /* About */
 
 .about-container {
@@ -143,28 +95,3 @@ li a:focus {
 }
 
 /* Education */
-
-.education-container {
-  display: flex;
-  justify-content: center;
-}
-
-.education-content {
-  display: flex;
-  justify-content: center;
-  gap: 150px;
-}
-
-.senior {
-  background-color: #f8fafc;
-  width: 500px;
-  height: 200px;
-  border: 20px solid black;
-}
-
-.college {
-  background-color: #f8fafc;
-  width: 500px;
-  height: 200px;
-  border: 20px solid black;
-}
